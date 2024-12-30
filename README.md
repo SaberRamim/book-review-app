@@ -60,4 +60,5 @@ You can find the project at: [https://github.com/SaberRamim/book-review-app](htt
 
 ## مخزن گیت‌هاب  
 
-شما می‌توانید پروژه را در آدرس زیر پیدا کنید: [https://github.com/SaberRamim/book-review-app](https://github.com/SaberRamim/book-review-app)
+شما می‌توانید پروژه را در آدرس زیر پیدا کنید: 
+https://github.com/SaberRamim/book-review-app
